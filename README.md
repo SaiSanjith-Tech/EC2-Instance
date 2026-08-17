@@ -7,10 +7,6 @@ A fast, responsive static website built with pure HTML5/CSS3 and deployed to an 
 
 ## 🌐 Live Project URL
 
-* **Live Demo:** `http://<54.209.166.93>`
-
----
-
 ## 🚀 Features
 
 * **Lightweight & Fast:** Pure HTML5 and modern CSS3 without external framework overhead.
